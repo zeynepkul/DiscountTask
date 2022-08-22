@@ -1,0 +1,8 @@
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\bin\Debug\Interview5.exe.config
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\bin\Debug\Interview5.exe
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\bin\Debug\Interview5.pdb
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\obj\Debug\Interview5.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\obj\Debug\Interview5.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\obj\Debug\Interview5.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\obj\Debug\Interview5.exe
+C:\Users\zeyne\OneDrive\Desktop\Interview5Solution\Interview5\obj\Debug\Interview5.pdb
